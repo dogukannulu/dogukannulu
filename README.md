@@ -30,7 +30,7 @@
 
 <!-- Tech Stack --> 
 
-<h3 align="Center">Languages and Tools:</h3>  
+<h3 align="Center">Tech Stack:</h3>  
 <p align="center">
 <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" style="height: 4rem"/>
 <img src="https://img.icons8.com/external-bearicons-blue-bearicons/512/external-SQL-file-extension-bearicons-blue-bearicons.png" style="height: 4rem"/>
