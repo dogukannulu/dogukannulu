@@ -1,11 +1,14 @@
 <!-- Intro -->
 
-<p align="center">
+<!--<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+I+am+Dogukan+👋;I+am+an+enthusiastic+Data+Engineer"></a>
-</p>
+</p>-->
+
+<h3 align="center">Hi! I'm Dogukan (Data Engineer)</h3>  
+
 <h3 align="center">About Me :</h3>  
  <p>
- 	:office_worker:  I am working as a data engineer at Plentific.
+ 	:office_worker:  I am working as a data engineer.
 <br>:technologist: Writing data-related articles on Medium.
 <br>💫 Mostly writing code with Python and SQL.
 <br>⭐ Developing personal data engineering projects.
@@ -56,8 +59,8 @@
 </p>
 
 
-<!-- Let's have a look at my profile :) -->
+<!-- Let's have a look at my profile :)
 <div align="center">
 <h3 align="center">Let's have a look at my profile :) </h3> 
 
- </div>
+ </div>-->
