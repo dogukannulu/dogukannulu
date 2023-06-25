@@ -55,8 +55,9 @@
 <img src="https://img.icons8.com/color/512/docker.png" style="height: 4rem" />
 <img src="https://www.svgrepo.com/show/353380/airflow.svg" style="height: 4rem" />
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" style="height: 4rem" />
-<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_pycharm_macos_bigsur_icon_190055.png" style="height: 4rem" />
 <img src="https://cdn.icon-icons.com/icons2/2667/PNG/512/jupyter_app_icon_161280.png" style="height: 4rem" />
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/snowflake_logo_icon_167979.png" style="height: 4rem" />
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/metabase_logo_icon_170959.png" style="height: 4rem" />
 </p>
 
 
