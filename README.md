@@ -36,28 +36,23 @@
 
 <h3 align="Center">Tech Stack:</h3>  
 <p align="center">
-<img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" style="height: 4rem"/>
-<img src="https://img.icons8.com/external-bearicons-blue-bearicons/512/external-SQL-file-extension-bearicons-blue-bearicons.png" style="height: 4rem"/>
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170561.png" style="height: 4rem"/>
-<img src="https://img.icons8.com/color/512/hadoop-distributed-file-system.png" style="height: 4rem"/>
-<img src="https://cdn.icon-icons.com/icons2/2248/PNG/512/apache_kafka_icon_138937.png"  style="height: 4rem"/>
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_zookeeper_logo_icon_169571.png" style="height: 4rem"/>
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_hive_logo_icon_167867.png" style="height: 4rem"/>
-<img src="https://img.icons8.com/color/512/elasticsearch.png" style="height: 4rem; background-color:white"/>
-<img src="https://img.icons8.com/color/512/kibana.png"  style="height: 4rem"/>
-<img src="https://img.icons8.com/color/512/amazon-web-services.png" style="height: 4rem" />
-<img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" style="height: 4rem" />
-<img src="https://img.icons8.com/color/512/tableau-software.png" style="height: 4rem" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg" style="height: 4rem" />
-<img src="https://img.icons8.com/color/512/postgreesql.png" style="height: 4rem" />
-<img src="https://img.icons8.com/color/512/mysql-logo.png" style="height: 4rem" />
-<img src="https://www.svgrepo.com/show/354012/looker-icon.svg" style="height: 4rem" />
-<img src="https://img.icons8.com/color/512/docker.png" style="height: 4rem" />
-<img src="https://www.svgrepo.com/show/353380/airflow.svg" style="height: 4rem" />
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" style="height: 4rem" />
-<img src="https://cdn.icon-icons.com/icons2/2667/PNG/512/jupyter_app_icon_161280.png" style="height: 4rem" />
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/snowflake_logo_icon_167979.png" style="height: 4rem" />
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/metabase_logo_icon_170959.png" style="height: 4rem" />
+<a href="https://www.python.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" alt="python"  style="height: 3rem"/> </a>
+<a href="https://tr.wikipedia.org/wiki/SQL" target="_blank"> <img src="https://img.icons8.com/external-bearicons-blue-bearicons/512/external-SQL-file-extension-bearicons-blue-bearicons.png" alt="sql"  style="height: 3rem"/> </a>
+<a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/512/amazon-web-services.png" alt="aws"  style="height: 3rem"/> </a>
+<a href="https://cloud.google.com/" target="_blank"> <img src="https://www.sophos.com/sites/default/files/2022-02/googlecloud.png" alt="metabase"  style="height: 3rem"/> </a>
+<a href="https://spark.apache.org/" target="_blank"> <img src="https://ignos.blog/wp-content/uploads/2022/06/apachesparklogo-e1655475818894.png" alt="spark"  style="height: 3rem"/> </a>
+<a href="https://www.snowflake.com/en/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/snowflake_logo_icon_167979.png" alt="snowflake"  style="height: 3rem"/> </a>
+<a href="https://kafka.apache.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2248/PNG/512/apache_kafka_icon_138937.png" alt="kafka"  style="height: 3rem"/> </a>
+<a href="https://airflow.apache.org/" target="_blank"> <img src="https://www.svgrepo.com/show/353380/airflow.svg" alt="airflow"  style="height: 3rem"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/512/docker.png" alt="docker"  style="height: 3rem"/> </a>
+<a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/512/postgreesql.png" alt="postgresql"  style="height: 3rem"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/512/mysql-logo.png" alt="mysql"  style="height: 3rem"/> </a>
+<a href="https://hadoop.apache.org/" target="_blank"> <img src="https://img.icons8.com/color/512/hadoop-distributed-file-system.png" alt="hadoop"  style="height: 3rem"/> </a>
+<a href="https://www.getdbt.com/" target="_blank"> <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt"  style="height: 3rem"/> </a>
+<a href="https://cassandra.apache.org/_/index.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg" alt="cassandra"  style="height: 3rem"/> </a>
+<a href="https://www.elastic.co/" target="_blank"> <img src="https://img.icons8.com/color/512/elasticsearch.png" alt="elasticsearch"  style="height: 3rem"/> </a>
+<a href="https://lookerstudio.google.com/" target="_blank"> <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" alt="looker"  style="height: 3rem"/> </a>
+<a href="https://www.metabase.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/metabase_logo_icon_170959.png" alt="metabase"  style="height: 3rem"/> </a>
 </p>
 
 
