@@ -9,11 +9,13 @@
 
 <h3 align="center">About Me :</h3>  
  <p>
- 	:office_worker:  I am working as a Data Engineer.
-<br>:technologist: Writing data-related articles on Medium.
-<br>💫 Mostly writing code with Python and SQL.
-<br>⭐ Developing personal data engineering projects.
-<br>👩‍💻 Constantly learning. Hard work pays off!
+<div align="center">
+<br>  Working as a Data Engineer.
+<br>  Writing data-related articles on Medium
+<br>  Writing Python scripts and SQL queries
+<br>  Developing lot of data engineering projects
+<br>  Creating lots of batch/streaming ETL/ELT pipelines
+</div>
  </p>
 
 <!-- Socials --> 
