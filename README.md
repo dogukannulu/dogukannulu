@@ -12,9 +12,9 @@
 <div align="center">
 <br>  Working as a Data Engineer.
 <br>  Writing data-related articles on Medium
-<br>  Writing Python scripts and SQL queries
-<br>  Developing lot of data engineering projects
-<br>  Creating lots of batch/streaming ETL/ELT pipelines
+<br>  Coding advanced Python scripts and SQL queries
+<br>  Developing lots of complicated data engineering projects
+<br>  Creating lots data pipelines
 </div>
  </p>
 
