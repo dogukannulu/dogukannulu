@@ -55,6 +55,6 @@
 <a href="https://www.elastic.co/" target="_blank"> <img src="https://img.icons8.com/color/512/elasticsearch.png" alt="elasticsearch"  style="height: 3rem"/> </a>
 <a href="https://lookerstudio.google.com/" target="_blank"> <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" alt="looker"  style="height: 3rem"/> </a>
 <a href="https://www.metabase.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/metabase_logo_icon_170959.png" alt="metabase"  style="height: 3rem"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://repvue.imgix.net/a9yxc48y3ay5dm2udzwizc2bdyph" alt="mongodb"  style="height: 3rem"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png" alt="mongodb"  style="height: 3rem"/> </a>
 </p>
 
