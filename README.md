@@ -14,7 +14,7 @@
 <br>  Writing data-related articles on Medium
 <br>  Coding advanced Python scripts and SQL queries
 <br>  Developing lots of complicated data engineering projects
-<br>  Creating lots data pipelines
+<br>  Creating many different types of data pipelines
 </div>
  </p>
 
