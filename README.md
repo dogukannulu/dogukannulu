@@ -22,14 +22,24 @@
 
 <h3 align="center">Connect with me:</h3>  
 <div align="center">
-<a href="https://www.linkedin.com/in/dogukanulu/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/3992/3992606.png" style="height: 3rem"/></a>
+<a href="https://www.linkedin.com/in/dogukanulu/" target="blank">
+<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" style="height: 3rem"/>
+</a>
 
 <a href="https://medium.com/@dogukannulu" target="blank">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" style="height: 3rem; background-color:white"/>
+<img src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png" style="height: 3rem; background-color:white"/>
 </a>
 
 <a href="mailto:dogukannulu@gmail.com" target="blank">
-<img src="https://cdn-icons-png.flaticon.com/512/3128/3128267.png" style="height: 3rem"/>
+<img src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png" style="height: 3rem"/>
+</a>
+
+<a href="https://dogukanulu.dev/" target="blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Eo_circle_blue_letter-d.svg" style="height: 3rem"/>
+</a>
+
+<a href="https://www.upwork.com/freelancers/~01e24ff1511cbf7aea" target="blank">
+<img src="https://www.svgrepo.com/show/331630/upwork.svg" style="height: 3rem"/>
 </a>
 
 </div>
