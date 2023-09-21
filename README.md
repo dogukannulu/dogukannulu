@@ -54,7 +54,7 @@
 <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.sophos.com/sites/default/files/2022-02/googlecloud.png" alt="metabase"  style="height: 3rem"/> </a>
 <a href="https://spark.apache.org/" target="_blank"> <img src="https://ignos.blog/wp-content/uploads/2022/06/apachesparklogo-e1655475818894.png" alt="spark"  style="height: 3rem"/> </a>
 <a href="https://www.snowflake.com/en/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/snowflake_logo_icon_167979.png" alt="snowflake"  style="height: 3rem"/> </a>
-<a href="https://kafka.apache.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2248/PNG/512/apache_kafka_icon_138937.png" alt="kafka"  style="height: 3rem"/> </a>
+<a href="https://kafka.apache.org/" target="_blank"> <img src="https://icons-for-free.com/iconfiles/png/512/apache+kafka-1331550886393441357.png" alt="kafka"  style="height: 3rem"/> </a>
 <a href="https://airflow.apache.org/" target="_blank"> <img src="https://www.svgrepo.com/show/353380/airflow.svg" alt="airflow"  style="height: 3rem"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/512/docker.png" alt="docker"  style="height: 3rem"/> </a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/512/postgreesql.png" alt="postgresql"  style="height: 3rem"/> </a>
