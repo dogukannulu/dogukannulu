@@ -10,11 +10,7 @@
 <h3 align="center">About Me :</h3>  
  <p>
 <div align="center">
-<br>  Working as a Data Engineer.
-<br>  Writing data-related articles on Medium
-<br>  Coding advanced Python scripts and SQL queries
-<br>  Developing lots of complicated data engineering projects
-<br>  Creating many different types of data pipelines
+<br>  I am working as a Data Engineer. I develop many data engineering projects with the below tools and frameworks. I start working on the projects and jobs with a can-do approach and try to find the best practices while handling the tasks. I believe that theoretical side of the data is quite important. That's why I learn the principles of distributed computing, big data practices, best approaches in streaming data, scheduling pipelines, best practices of cloud environments and many other topics. While doing those, I also develop myself in coding especially at Python and SQL. I create many complicated Python scripts as well as many SQL queries. You can find lots of data engineering projects here, welcome to my GitHub :)
 </div>
  </p>
 
@@ -31,7 +27,7 @@
 </a>
 
 <a href="mailto:dogukannulu@gmail.com" target="blank">
-<img src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png" style="height: 3rem"/>
+<img src="img/mail.png" style="height: 3rem"/>
 </a>
 
 <a href="https://dogukanulu.dev/" target="blank">
