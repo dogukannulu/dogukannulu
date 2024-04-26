@@ -7,7 +7,7 @@
 <h3 align="center">Hi! I'm Dogukan</h3>
 <h3 align="center">Data Engineer</h3>
 
-<h3 align="center">About Me :</h3>  
+<h3 align="center">À propos de moi :</h3>  
  <p>
 <div align="center">
 <br>  I am working as a Data Engineer. I develop many data engineering projects using the below tools and frameworks. I always start working on the projects and jobs with a can-do approach. I always learn the best practices to increase efficiency and apply them while handling the tasks. I am a strong believer of sustainability and we, as data engineers, should complete the tasks as sustainable as possible. I also believe that theoretical part of the data is quite important. That's why I always learn and keep myself up-to-date about the principles of distributed computing, big data applications, how to handle the streaming data, scheduling/orchestrating the pipelines, working principles of cloud environments and many other topics. While doing those, I also develop myself in coding especially at Python and SQL. I create many complicated Python scripts as well as many SQL queries. You can find lots of data engineering projects here, welcome to my GitHub :)
