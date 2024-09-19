@@ -23,7 +23,7 @@
 </a> --> 
 
 <a href="https://medium.com/@dogukannulu" target="blank">
-<img src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png" style="height: 3rem; background-color:white"/>
+<img src="https://cdn.iconscout.com/icon/free/png-512/free-medium-logo-icon-download-in-svg-png-gif-file-formats--social-media-communication-network-pack-logos-icons-3201557.png?f=webp&w=512" style="height: 3rem; background-color:white"/>
 </a>
 
 <a href="mailto:dogukannulu@gmail.com" target="blank">
