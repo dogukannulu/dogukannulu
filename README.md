@@ -65,6 +65,6 @@
 <a href="https://www.terraform.io/" target="_blank"> <img src="https://ms-devlabs.gallerycdn.vsassets.io/extensions/ms-devlabs/custom-terraform-tasks/0.1.23/1692742494795/Microsoft.VisualStudio.Services.Icons.Default" alt="terraform"  style="height: 3rem"/> </a>
 <a href="https://flink.apache.org/" target="_blank"> <img src="https://d1q6f0aelx0por.cloudfront.net/product-logos/library-flink-logo.png" alt="flink"  style="height: 3rem"/> </a>
 <a href="https://www.jenkins.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="jenkins"  style="height: 3rem"/> </a>
-<a href="https://kubernetes.io/" target="_blank"> <img src="https://banner2.cleanpng.com/20180928/uyw/kisspng-kubernetes-docker-software-deployment-logo-orchest-manage-containers-and-microservices-easily-with-we-5baea144265689.454735931538171204157.jpg" alt="kubernetes"  style="height: 3rem"/> </a>
+<a href="https://kubernetes.io/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/kubernetes-icon-512x496-t2lupefk.png" alt="kubernetes"  style="height: 3rem"/> </a>
 </p>
 
