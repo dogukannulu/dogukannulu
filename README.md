@@ -34,9 +34,9 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Eo_circle_blue_letter-d.svg" style="height: 3rem"/>
 </a> --> 
 
-<a href="https://www.upwork.com/freelancers/~01e24ff1511cbf7aea" target="blank">
+<!-- <a href="https://www.upwork.com/freelancers/~01e24ff1511cbf7aea" target="blank">
 <img src="https://www.svgrepo.com/show/331630/upwork.svg" style="height: 3rem"/>
-</a>
+</a> --> 
 
 </div>
 
