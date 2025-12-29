@@ -78,7 +78,7 @@
       <sub><b>Snowflake</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Teradata_logo_2018.png" width="40" height="40"/><br/>
+      <img src="https://img.icons8.com/?size=100&id=108544&format=png&color=000000" width="40" height="40"/><br/>
       <sub><b>Teradata</b></sub>
     </td>
     <td align="center" width="96">
@@ -104,12 +104,12 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://public.cdn.getdbt.com/images/logos/dbt-light.svg" width="40" height="40"/><br/>
+      <img src="https://astro-provider-logos.s3.us-east-2.amazonaws.com/apache-airflow-providers-dbt-cloud.png" width="40" height="40"/><br/>
       <sub><b>dbt</b></sub>
     </td>
     <td align="center" width="96">
       <img src="https://rudderstack.com/favicon.ico" width="40" height="40"/><br/>
-      <sub><b>Rudder</b></sub>
+      <sub><b>Rudderstack</b></sub>
     </td>
     <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/fivetran/fivetran-icon.svg" width="40" height="40"/><br/>
@@ -151,7 +151,7 @@
     </td>
     <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="40" height="40"/><br/>
-      <sub><b>K8s</b></sub>
+      <sub><b>Kubernetes</b></sub>
     </td>
   </tr>
 </table>
@@ -168,7 +168,7 @@
       <sub><b>Looker</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" width="40" height="40"/><br/>
+      <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" width="40" height="40"/><br/>
       <sub><b>Tableau</b></sub>
     </td>
     <td align="center" width="96">
@@ -190,7 +190,7 @@
       <sub><b>HF</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="40" height="40"/><br/>
+      <img src="https://img.icons8.com/?size=100&id=Rffi8qeb2fK5&format=png&color=000000" width="40" height="40"/><br/>
       <sub><b>Streamlit</b></sub>
     </td>
     <td align="center" width="96">
@@ -198,7 +198,7 @@
       <sub><b>MLflow</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="40" height="40"/><br/>
+      <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" width="40" height="40"/><br/>
       <sub><b>FastAPI</b></sub>
     </td>
     <td align="center" width="96">
@@ -210,8 +210,8 @@
       <sub><b>Langfuse</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/chroma.svg" width="40" height="40"/><br/>
-      <sub><b>Chroma</b></sub>
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/qdrant.svg" width="40" height="40"/><br/>
+      <sub><b>Qdrant</b></sub>
     </td>
   </tr>
 </table>
