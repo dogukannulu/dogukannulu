@@ -68,8 +68,8 @@
       <sub><b>AWS MWAA</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="./img/scheduler.png" width="40" height="40"/><br/>
-      <sub><b>GCP Cloud Scheduler</b></sub>
+      <img src="./img/cloud composer.svg" width="40" height="40"/><br/>
+      <sub><b>GCP Cloud Composer</b></sub>
     </td>
   </tr>
 </table>
@@ -219,7 +219,7 @@
   <tr>
     <td align="center" width="96">
       <img src="./img/huggingface.svg" width="40" height="40"/><br/>
-      <sub><b>HF</b></sub>
+      <sub><b>Hugging Face</b></sub>
     </td>
     <td align="center" width="96">
       <img src="./img/streamlit.png"" width="40" height="40"/><br/>
@@ -307,6 +307,10 @@
     <td align="center" width="96">
       <img src="./img/source repository.png" width="40" height="40"/><br/>
       <sub><b>GCP Source Repository</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="./img/scheduler.png" width="40" height="40"/><br/>
+      <sub><b>GCP Cloud Scheduler</b></sub>
     </td>
   </tr>
 </table>
