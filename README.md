@@ -12,11 +12,11 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" width="40" height="40"/><br/>
+      <img src="./img/python.png" width="40" height="40"/><br/>
       <sub><b>Python</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/external-bearicons-blue-bearicons/512/external-SQL-file-extension-bearicons-blue-bearicons.png" width="40" height="40"/><br/>
+      <img src="./img/sql.png" width="40" height="40"/><br/>
       <sub><b>SQL</b></sub>
     </td>
   </tr>
@@ -30,23 +30,23 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://spark.apache.org/images/spark-logo-trademark.png" width="40" height="40"/><br/>
+      <img src="./img/spark.png" width="40" height="40"/><br/>
       <sub><b>Spark</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://kafka.apache.org/logos/kafka-logo-tall.png" width="40" height="40"/><br/>
+      <img src="./img/kafka.webp" width="40" height="40"/><br/>
       <sub><b>Kafka</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://flink.apache.org/img/logo/png/500/flink_squirrel_500.png" width="40" height="40"/><br/>
+      <img src="./img/flink.png" width="40" height="40"/><br/>
       <sub><b>Flink</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/color/512/hadoop-distributed-file-system.png" width="40" height="40"/><br/>
+      <img src="./img/hadoop.png" width="40" height="40"/><br/>
       <sub><b>Hadoop</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg" width="40" height="40"/><br/>
+      <img src="./img/hive.svg" width="40" height="40"/><br/>
       <sub><b>Hive</b></sub>
     </td>
   </tr>
@@ -60,8 +60,16 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://www.svgrepo.com/show/353380/airflow.svg" width="40" height="40"/><br/>
+      <img src="./img/airflow.webp" width="40" height="40"/><br/>
       <sub><b>Airflow</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="./img/mwaa.png" width="40" height="40"/><br/>
+      <sub><b>AWS MWAA</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="./img/scheduler.png" width="40" height="40"/><br/>
+      <sub><b>GCP Cloud Scheduler</b></sub>
     </td>
   </tr>
 </table>
@@ -74,23 +82,39 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/snowflake_logo_icon_167979.png" width="40" height="40"/><br/>
+      <img src="./img/snowflake.png" width="40" height="40"/><br/>
       <sub><b>Snowflake</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/?size=100&id=108544&format=png&color=000000" width="40" height="40"/><br/>
+      <img src="./img/teradata.png" width="40" height="40"/><br/>
       <sub><b>Teradata</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/?size=512&id=WHRLQdbEXQ16&format=png" width="40" height="40"/><br/>
-      <sub><b>BigQuery</b></sub>
+      <img src="./img/bigquery.png" width="40" height="40"/><br/>
+      <sub><b>GCP BigQuery</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/color/512/postgreesql.png" width="40" height="40"/><br/>
-      <sub><b>Postgres</b></sub>
+      <img src="./img/aurora.webp" width="40" height="40"/><br/>
+      <sub><b>AWS Aurora</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/color/512/mysql-logo.png" width="40" height="40"/><br/>
+      <img src="./img/rds.png" width="40" height="40"/><br/>
+      <sub><b>AWS RDS</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="./img/redshift.png" width="40" height="40"/><br/>
+      <sub><b>AWS Redshift</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="./img/cloud sql.webp" width="40" height="40"/><br/>
+      <sub><b>GCP Cloud SQL</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="./img/postgresql.png" width="40" height="40"/><br/>
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="./img/mysql.png" width="40" height="40"/><br/>
       <sub><b>MySQL</b></sub>
     </td>
   </tr>
@@ -104,23 +128,23 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://astro-provider-logos.s3.us-east-2.amazonaws.com/apache-airflow-providers-dbt-cloud.png" width="40" height="40"/><br/>
-      <sub><b>dbt</b></sub>
+      <img src="./img/dbt.webp" width="40" height="40"/><br/>
+      <sub><b>DBT</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://rudderstack.com/favicon.ico" width="40" height="40"/><br/>
+      <img src="./img/rudderstack.jpg" width="40" height="40"/><br/>
       <sub><b>Rudderstack</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/fivetran/fivetran-icon.svg" width="40" height="40"/><br/>
+      <img src="./img/fivetran.png" width="40" height="40"/><br/>
       <sub><b>Fivetran</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.brandfetch.io/id2WO4wLxK/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1668082116314" width="40" height="40"/><br/>
+      <img src="./img/airbyte.png" width="40" height="40"/><br/>
       <sub><b>Airbyte</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.brandfetch.io/id0ExyUxF8/w/140/h/140/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1674536984362" width="40" height="40"/><br/>
+      <img src="./img/hevo.png" width="40" height="40"/><br/>
       <sub><b>Hevo</b></sub>
     </td>
   </tr>
@@ -134,23 +158,23 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/color/512/amazon-web-services.png" width="40" height="40"/><br/>
+      <img src="./img/aws.webp" width="40" height="40"/><br/>
       <sub><b>AWS</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/?size=512&id=WHRLQdbEXQ16&format=png" width="40" height="40"/><br/>
+      <img src="./img/gcp.png" width="40" height="40"/><br/>
       <sub><b>GCP</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://ms-devlabs.gallerycdn.vsassets.io/extensions/ms-devlabs/custom-terraform-tasks/0.1.23/1692742494795/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="40"/><br/>
+      <img src="./img/terraform.webp" width="40" height="40"/><br/>
       <sub><b>Terraform</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/color/512/docker.png" width="40" height="40"/><br/>
+      <img src="./img/docker.png" width="40" height="40"/><br/>
       <sub><b>Docker</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="40" height="40"/><br/>
+      <img src="./img/kubernetes.webp" width="40" height="40"/><br/>
       <sub><b>Kubernetes</b></sub>
     </td>
   </tr>
@@ -164,16 +188,24 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" width="40" height="40"/><br/>
+      <img src="./img/looker.webp" width="40" height="40"/><br/>
       <sub><b>Looker</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" width="40" height="40"/><br/>
+      <img src="./img/tableau.webp" width="40" height="40"/><br/>
       <sub><b>Tableau</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/metabase_logo_icon_170959.png" width="40" height="40"/><br/>
+      <img src="./img/metabase.webp" width="40" height="40"/><br/>
       <sub><b>Metabase</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="./img/quicksight.svg" width="40" height="40"/><br/>
+      <sub><b>AWS Quicksight</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="./img/holistics.png" width="40" height="40"/><br/>
+      <sub><b>Holistics</b></sub>
     </td>
   </tr>
 </table>
@@ -186,31 +218,31 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40" height="40"/><br/>
+      <img src="./img/huggingface.svg" width="40" height="40"/><br/>
       <sub><b>HF</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/?size=100&id=Rffi8qeb2fK5&format=png&color=000000" width="40" height="40"/><br/>
+      <img src="./img/streamlit.png"" width="40" height="40"/><br/>
       <sub><b>Streamlit</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.brandfetch.io/idS8GMP5c8/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1742926327412" width="40" height="40"/><br/>
+      <img src="./img/mlflow.svg"" width="40" height="40"/><br/>
       <sub><b>MLflow</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" width="40" height="40"/><br/>
+      <img src="./img/fastapi.svg"" width="40" height="40"/><br/>
       <sub><b>FastAPI</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.brandfetch.io/idzf7Sjo28/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1759403690368" width="40" height="40"/><br/>
+      <img src="./img/langchain.png" width="40" height="40"/><br/>
       <sub><b>LangChain</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langfuse-color.png" width="40" height="40"/><br/>
+      <img src="./img/langfuse.png" width="40" height="40"/><br/>
       <sub><b>Langfuse</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/qdrant.svg" width="40" height="40"/><br/>
+      <img src="./img/qdrant.png"" width="40" height="40"/><br/>
       <sub><b>Qdrant</b></sub>
     </td>
   </tr>
@@ -219,88 +251,62 @@
 <!-- ======================= -->
 <!--     CLOUD SERVICES      -->
 <!-- ======================= -->
-<h4 align="center">☁️ Cloud Services</h4>
+<h4 align="center">☁️ Other Cloud Services</h4>
 
 <table align="center">
   <tr>
     <!-- AWS Services -->
     <td align="center" width="96">
-      <img src="https://img.icons8.com/color/512/amazon-web-services.png" width="40" height="40"/><br/>
-      <sub><b>MWAA</b></sub>
+      <img src="./img/step functions.svg" width="40" height="40"/><br/>
+      <sub><b>AWS Step Functions</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/color/512/amazon-web-services.png" width="40" height="40"/><br/>
-      <sub><b>Step Functions</b></sub>
+      <img src="./img/glue.webp"" width="40" height="40"/><br/>
+      <sub><b>AWS Glue</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/color/512/amazon-web-services.png" width="40" height="40"/><br/>
-      <sub><b>Glue</b></sub>
+      <img src="./img/lambda.svg" width="40" height="40"/><br/>
+      <sub><b>AWS Lambda</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/color/512/amazon-web-services.png" width="40" height="40"/><br/>
-      <sub><b>Lambda</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/512/amazon-web-services.png" width="40" height="40"/><br/>
-      <sub><b>Kinesis</b></sub>
-  </tr>
-
-  <tr>
+      <img src="./img/kinesis.webp"" width="40" height="40"/><br/>
+      <sub><b>AWS Kinesis</b></sub>
     <!-- AWS Data & Compute -->
     <td align="center" width="96">
-      <img src="https://img.icons8.com/color/512/amazon-web-services.png" width="40" height="40"/><br/>
-      <sub><b>EC2</b></sub>
+      <img src="./img/ec2.webp" width="40" height="40"/><br/>
+      <sub><b>AWS EC2</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/color/512/amazon-web-services.png" width="40" height="40"/><br/>
-      <sub><b>S3</b></sub>
+      <img src="./img/s3.png" width="40" height="40"/><br/>
+      <sub><b>AWS S3</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/color/512/amazon-web-services.png" width="40" height="40"/><br/>
-      <sub><b>Redshift</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/512/amazon-web-services.png" width="40" height="40"/><br/>
-      <sub><b>Athena</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/512/amazon-web-services.png" width="40" height="40"/><br/>
-      <sub><b>QuickSight</b></sub>
+      <img src="./img/athena.png" width="40" height="40"/><br/>
+      <sub><b>AWS Athena</b></sub>
     </td>
   </tr>
 
   <tr>
     <!-- GCP Services -->
     <td align="center" width="96">
-      <img src="https://img.icons8.com/?size=512&id=WHRLQdbEXQ16&format=png" width="40" height="40"/><br/>
-      <sub><b>BigQuery</b></sub>
+      <img src="./img/scheduler.png" width="40" height="40"/><br/>
+      <sub><b>GCP Scheduler</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/?size=512&id=WHRLQdbEXQ16&format=png" width="40" height="40"/><br/>
-      <sub><b>Scheduler</b></sub>
+      <img src="./img/datastream.png" width="40" height="40"/><br/>
+      <sub><b>GCP Datastream</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/?size=512&id=WHRLQdbEXQ16&format=png" width="40" height="40"/><br/>
-      <sub><b>Datastream</b></sub>
+      <img src="./img/build.png" width="40" height="40"/><br/>
+      <sub><b>GCP Cloud Build</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/?size=512&id=WHRLQdbEXQ16&format=png" width="40" height="40"/><br/>
-      <sub><b>Cloud Build</b></sub>
+      <img src="./img/gcs.png" width="40" height="40"/><br/>
+      <sub><b>GCP Cloud Storage</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/?size=512&id=WHRLQdbEXQ16&format=png" width="40" height="40"/><br/>
-      <sub><b>Storage</b></sub>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/?size=512&id=WHRLQdbEXQ16&format=png" width="40" height="40"/><br/>
-      <sub><b>Cloud SQL</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/?size=512&id=WHRLQdbEXQ16&format=png" width="40" height="40"/><br/>
-      <sub><b>Source Repository</b></sub>
+      <img src="./img/source repository.png" width="40" height="40"/><br/>
+      <sub><b>GCP Source Repository</b></sub>
     </td>
   </tr>
 </table>
@@ -313,15 +319,15 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/color/512/git.png" width="40" height="40"/><br/>
+      <img src="./img/git.png" width="40" height="40"/><br/>
       <sub><b>Git</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" width="40" height="40"/><br/>
+      <img src="./img/jenkins.png" width="40" height="40"/><br/>
       <sub><b>Jenkins</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" width="40" height="40"/><br/>
+      <img src="./img/circleci.png" width="40" height="40"/><br/>
       <sub><b>CircleCI</b></sub>
     </td>
   </tr>
