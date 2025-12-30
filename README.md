@@ -94,12 +94,8 @@
       <sub><b>GCP BigQuery</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="./img/aurora.webp" width="40" height="40"/><br/>
-      <sub><b>AWS Aurora</b></sub>
-    </td>
-    <td align="center" width="96">
       <img src="./img/rds.png" width="40" height="40"/><br/>
-      <sub><b>AWS RDS</b></sub>
+      <sub><b>AWS RDS & Aurora</b></sub>
     </td>
     <td align="center" width="96">
       <img src="./img/redshift.png" width="40" height="40"/><br/>
@@ -288,10 +284,6 @@
 
   <tr>
     <!-- GCP Services -->
-    <td align="center" width="96">
-      <img src="./img/scheduler.png" width="40" height="40"/><br/>
-      <sub><b>GCP Scheduler</b></sub>
-    </td>
     <td align="center" width="96">
       <img src="./img/datastream.png" width="40" height="40"/><br/>
       <sub><b>GCP Datastream</b></sub>
