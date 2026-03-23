@@ -85,7 +85,6 @@
 <p align="center">
   <a href="https://github.com/dogukannulu?tab=repositories">→ View all repositories</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/sponsors/dogukannulu">❤️ Sponsor my work</a>
 </p>
 
 ---
