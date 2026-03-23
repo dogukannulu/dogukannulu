@@ -84,7 +84,6 @@
 
 <p align="center">
   <a href="https://github.com/dogukannulu?tab=repositories">→ View all repositories</a>
-  &nbsp;·&nbsp;
 </p>
 
 ---
