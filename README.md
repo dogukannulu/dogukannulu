@@ -1,3 +1,59 @@
+<h1 align="center">Hi 👋, I'm Dogukan Ulu</h1>
+<h3 align="center">Senior Data & AI Engineer · Building production-grade pipelines & LLM systems</h3>
+
+<p align="center">
+  <a href="https://medium.com/@dogukannulu" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-10K%20Followers-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/dogukannuluu" target="_blank">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/dogukannulu" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-326%20Followers-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<!-- ======================= -->
+<!--       TOP ARTICLES      -->
+<!-- ======================= -->
+
+<h3 align="center">📝 Top Articles on Medium</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="300">
+      <a href="https://medium.com/@dogukannulu/data-engineering-end-to-end-project-1-7a7be2a3671" target="_blank">
+        <b>End-to-End Data Engineering</b><br/>
+        <sub>Spark · Kafka · Airflow · Docker · Cassandra · Python</sub>
+      </a>
+    </td>
+    <td align="center" width="300">
+      <a href="https://medium.com/@dogukannulu/aws-cloud-engineering-project-part-1-aws-glue-lambda-kinesis-redshift-athena-quicksight-649fc4d7e0dc" target="_blank">
+        <b>☁️ AWS Cloud Data Engineering</b><br/>
+        <sub>Kinesis · S3 · Glue · Redshift · Spark · Athena</sub>
+      </a>
+    </td>
+    <td align="center" width="300">
+      <a href="https://medium.com/apache-airflow/data-engineering-end-to-end-project-part-1-airflow-kafka-cassandra-mongodb-docker-a87f2daec55e" target="_blank">
+        <b>Data Streaming</b><br/>
+        <sub>Airflow · Kafka · MongoDB · Docker · SQL</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://medium.com/@dogukannulu">
+    → View all articles on Medium
+  </a>
+</p>
+
+---
+
 <!-- ======================= -->
 <!--        TECH STACK       -->
 <!-- ======================= -->
@@ -218,15 +274,15 @@
       <sub><b>Hugging Face</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="./img/streamlit.png"" width="40" height="40"/><br/>
+      <img src="./img/streamlit.png" width="40" height="40"/><br/>
       <sub><b>Streamlit</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="./img/mlflow.svg"" width="40" height="40"/><br/>
+      <img src="./img/mlflow.svg" width="40" height="40"/><br/>
       <sub><b>MLflow</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="./img/fastapi.svg"" width="40" height="40"/><br/>
+      <img src="./img/fastapi.svg" width="40" height="40"/><br/>
       <sub><b>FastAPI</b></sub>
     </td>
     <td align="center" width="96">
@@ -238,7 +294,7 @@
       <sub><b>Langfuse</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="./img/qdrant.png"" width="40" height="40"/><br/>
+      <img src="./img/qdrant.png" width="40" height="40"/><br/>
       <sub><b>Qdrant</b></sub>
     </td>
   </tr>
@@ -257,7 +313,7 @@
       <sub><b>AWS Step Functions</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="./img/glue.webp"" width="40" height="40"/><br/>
+      <img src="./img/glue.webp" width="40" height="40"/><br/>
       <sub><b>AWS Glue</b></sub>
     </td>
     <td align="center" width="96">
@@ -265,8 +321,9 @@
       <sub><b>AWS Lambda</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="./img/kinesis.webp"" width="40" height="40"/><br/>
+      <img src="./img/kinesis.webp" width="40" height="40"/><br/>
       <sub><b>AWS Kinesis</b></sub>
+    </td>
     <!-- AWS Data & Compute -->
     <td align="center" width="96">
       <img src="./img/ec2.webp" width="40" height="40"/><br/>
@@ -328,7 +385,3 @@
     </td>
   </tr>
 </table>
-
-
-
-
