@@ -13,6 +13,79 @@
   <a href="https://github.com/dogukannulu" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-326%20Followers-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  &nbsp;
+  <a href="https://github.com/sponsors/dogukannulu" target="_blank">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="GitHub Sponsors"/>
+  </a>
+</p>
+
+---
+
+<!-- ======================= -->
+<!--     FEATURED PROJECTS   -->
+<!-- ======================= -->
+
+<h3 align="center">📌 Featured Projects</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="280">
+      <a href="https://github.com/dogukannulu/kafka_spark_structured_streaming">
+        <b>🔥 Kafka + Spark Structured Streaming</b>
+      </a><br/>
+      <sub>Ingest API data via Airflow, stream through Kafka, process with Spark, write to Cassandra</sub><br/><br/>
+      <img src="https://img.shields.io/github/stars/dogukannulu/kafka_spark_structured_streaming?style=flat-square&color=yellow" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/dogukannulu/kafka_spark_structured_streaming?style=flat-square&color=blue" alt="forks"/>
+    </td>
+    <td align="center" width="280">
+      <a href="https://github.com/dogukannulu/glue_etl_job_data_catalog_s3">
+        <b>☁️ AWS Glue + EMR + S3 Pipeline</b>
+      </a><br/>
+      <sub>Cloud data engineering on AWS: Glue ETL, EMR Spark jobs, S3 data lake, Athena querying</sub><br/><br/>
+      <img src="https://img.shields.io/github/stars/dogukannulu/glue_etl_job_data_catalog_s3?style=flat-square&color=yellow" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/dogukannulu/glue_etl_job_data_catalog_s3?style=flat-square&color=blue" alt="forks"/>
+    </td>
+    <td align="center" width="280">
+      <a href="https://github.com/dogukannulu/streaming_data_processing">
+        <b>⚡ Streaming Data Processing</b>
+      </a><br/>
+      <sub>Kafka → PySpark → Elasticsearch & MinIO. Full streaming pipeline with Airflow orchestration</sub><br/><br/>
+      <img src="https://img.shields.io/github/stars/dogukannulu/streaming_data_processing?style=flat-square&color=yellow" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/dogukannulu/streaming_data_processing?style=flat-square&color=blue" alt="forks"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="280">
+      <a href="https://github.com/dogukannulu/airflow_kafka_cassandra_mongodb">
+        <b>🧩 Airflow + Kafka + Cassandra + MongoDB</b>
+      </a><br/>
+      <sub>Produce Kafka messages, consume and write to both Cassandra and MongoDB via Airflow DAGs</sub><br/><br/>
+      <img src="https://img.shields.io/github/stars/dogukannulu/airflow_kafka_cassandra_mongodb?style=flat-square&color=yellow" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/dogukannulu/airflow_kafka_cassandra_mongodb?style=flat-square&color=blue" alt="forks"/>
+    </td>
+    <td align="center" width="280">
+      <a href="https://github.com/dogukannulu/csv_extract_airflow_docker">
+        <b>🐳 CSV Extract with Airflow & Docker</b>
+      </a><br/>
+      <sub>Extract CSV to Postgres, transform with Pandas, orchestrate with Airflow — fully Dockerized</sub><br/><br/>
+      <img src="https://img.shields.io/github/stars/dogukannulu/csv_extract_airflow_docker?style=flat-square&color=yellow" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/dogukannulu/csv_extract_airflow_docker?style=flat-square&color=blue" alt="forks"/>
+    </td>
+    <td align="center" width="280">
+      <a href="https://github.com/dogukannulu/crypto_api_kafka_airflow_streaming">
+        <b>📈 Crypto Data Pipeline</b>
+      </a><br/>
+      <sub>Stream crypto data from API via Kafka with Airflow, store in MySQL, visualize with Metabase</sub><br/><br/>
+      <img src="https://img.shields.io/github/stars/dogukannulu/crypto_api_kafka_airflow_streaming?style=flat-square&color=yellow" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/dogukannulu/crypto_api_kafka_airflow_streaming?style=flat-square&color=blue" alt="forks"/>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/dogukannulu?tab=repositories">→ View all repositories</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/sponsors/dogukannulu">❤️ Sponsor my work</a>
 </p>
 
 ---
