@@ -38,12 +38,12 @@
       <img src="https://img.shields.io/github/forks/dogukannulu/kafka_spark_structured_streaming?style=flat-square&color=blue" alt="forks"/>
     </td>
     <td align="center" width="280">
-      <a href="https://github.com/dogukannulu/glue_etl_job_data_catalog_s3">
-        <b>☁️ AWS Glue + EMR + S3 Pipeline</b>
+      <a href="https://github.com/dogukannulu/text-to-sql">
+        <b>☁️ Text to SQL Agent</b>
       </a><br/>
-      <sub>Cloud data engineering on AWS: Glue ETL, EMR Spark jobs, S3 data lake, Athena querying</sub><br/><br/>
-      <img src="https://img.shields.io/github/stars/dogukannulu/glue_etl_job_data_catalog_s3?style=flat-square&color=yellow" alt="stars"/>
-      <img src="https://img.shields.io/github/forks/dogukannulu/glue_etl_job_data_catalog_s3?style=flat-square&color=blue" alt="forks"/>
+      <sub>Text-to-SQL agent that converts natural language questions to real-time SQL queries, and bring instant results across your company</sub><br/><br/>
+      <img src="https://img.shields.io/github/stars/dogukannulu/text-to-sql?style=flat-square&color=yellow" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/dogukannulu/text-to-sql?style=flat-square&color=blue" alt="forks"/>
     </td>
     <td align="center" width="280">
       <a href="https://github.com/dogukannulu/streaming_data_processing">
@@ -64,12 +64,12 @@
       <img src="https://img.shields.io/github/forks/dogukannulu/airflow_kafka_cassandra_mongodb?style=flat-square&color=blue" alt="forks"/>
     </td>
     <td align="center" width="280">
-      <a href="https://github.com/dogukannulu/csv_extract_airflow_docker">
-        <b>🐳 CSV Extract with Airflow & Docker</b>
+      <a href="https://github.com/dogukannulu/stock-sentiment-platform">
+        <b>🐳 Real-time Stock Sentiment Analyzer</b>
       </a><br/>
-      <sub>Extract CSV to Postgres, transform with Pandas, orchestrate with Airflow — fully Dockerized</sub><br/><br/>
-      <img src="https://img.shields.io/github/stars/dogukannulu/csv_extract_airflow_docker?style=flat-square&color=yellow" alt="stars"/>
-      <img src="https://img.shields.io/github/forks/dogukannulu/csv_extract_airflow_docker?style=flat-square&color=blue" alt="forks"/>
+      <sub>A finance analyst that searches for articles for your desired stocks, and bring you sentiment analysis results</sub><br/><br/>
+      <img src="https://img.shields.io/github/stars/dogukannulu/stock-sentiment-platform?style=flat-square&color=yellow" alt="stars"/>
+      <img src="https://img.shields.io/github/forks/dogukannulu/stock-sentiment-platform?style=flat-square&color=blue" alt="forks"/>
     </td>
     <td align="center" width="280">
       <a href="https://github.com/dogukannulu/crypto_api_kafka_airflow_streaming">
